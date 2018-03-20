@@ -1,0 +1,10 @@
+﻿  main.cpp
+g:\pixhawk\airsim\project\udpvcmatlab_v2.2_datapack\udpvcsever\udpcsever\main.cpp(26): warning C4305: “初始化”: 从“double”到“float”截断
+g:\pixhawk\airsim\project\udpvcmatlab_v2.2_datapack\udpvcsever\udpcsever\main.cpp(31): warning C4305: “参数”: 从“double”到“float”截断
+g:\pixhawk\airsim\project\udpvcmatlab_v2.2_datapack\udpvcsever\udpcsever\main.cpp(32): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+  正在编译...
+  Thread.cpp
+  正在生成代码...
+  UdpCSever.vcxproj -> G:\Pixhawk\AirSim\Project\UdpVCMatlab_V2.2_DataPack\UdpVCSever\Debug\UdpCSever.exe
+  UdpCSever.vcxproj -> G:\Pixhawk\AirSim\Project\UdpVCMatlab_V2.2_DataPack\UdpVCSever\Debug\UdpCSever.pdb (Full PDB)

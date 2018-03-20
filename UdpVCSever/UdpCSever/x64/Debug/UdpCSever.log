@@ -1,0 +1,15 @@
+﻿  Udp.cpp
+  main.cpp
+g:\workspace\visualstudio2015\udpcsever20171005_class\udpcsever\main.cpp(41): warning C4305: “参数”: 从“double”到“float”截断
+  DataPackage.cpp
+g:\workspace\visualstudio2015\udpcsever20171005_class\udpcsever\datapackage.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\workspace\visualstudio2015\udpcsever20171005_class\udpcsever\datapackage.cpp(26): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+g:\workspace\visualstudio2015\udpcsever20171005_class\udpcsever\datapackage.cpp(130): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+g:\workspace\visualstudio2015\udpcsever20171005_class\udpcsever\datapackage.cpp(134): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+g:\workspace\visualstudio2015\udpcsever20171005_class\udpcsever\datapackage.cpp(138): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+g:\workspace\visualstudio2015\udpcsever20171005_class\udpcsever\datapackage.cpp(142): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+g:\workspace\visualstudio2015\udpcsever20171005_class\udpcsever\datapackage.cpp(146): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+g:\workspace\visualstudio2015\udpcsever20171005_class\udpcsever\datapackage.cpp(149): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+  正在生成代码...
+  UdpCSever.vcxproj -> G:\WorkSpace\VisualStudio2015\UdpCSever20171005_Class\x64\Debug\UdpCSever.exe
+  UdpCSever.vcxproj -> G:\WorkSpace\VisualStudio2015\UdpCSever20171005_Class\x64\Debug\UdpCSever.pdb (Full PDB)
